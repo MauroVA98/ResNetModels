@@ -1,2 +1,2 @@
-# RetinaNetModels
-A repository to download the trained RetinaNet Models
+# ResNet Models
+A repository to download trained ResNet Models
